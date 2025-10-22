@@ -21,6 +21,14 @@ body {
   min-height: 100vh;
 }
 
+input[type="radio"] {
+  width: 15px;
+  height: 15px;
+  accent-color: #ff6600;
+  cursor: pointer;
+  margin-right: 8px;
+}
+
 .container {
   background-color: #1E223D;
   text-align: center;
