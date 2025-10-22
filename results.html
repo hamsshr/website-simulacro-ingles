@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Resultados del Examen</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header class="top-bar">
+        <button id="back">VOLVER AL INICIO</button>
+    </header>
+  <div class="resultados-container">
+    <h1>RESULTADOS DEL EXAMEN</h1>
+    <div id="score"></div>
+    <div id="details"></div>
+  </div>
+
+  <script src="quiz.js"></script>
+  <script>
+    // Obtener resultados del almacenamiento local
+    const results = JSON.parse(localStorage.getItem("quizResults")) || [];
+    const total = parseInt(localStorage.getItem("totalQuestions")) || results.length;
+
+    let correct = results.filter(r => r.isCorrect).length;
+    let wrong = total - correct;
+    let percent = Math.round((correct / total) * 100);
+
+    const scoreDiv = document.getElementById("score");
+    const detailsDiv = document.getElementById("details");
+
+    // Puntaje principal
+    scoreDiv.innerHTML = `
+      <h2>TU PUNTAJE: ${correct}/${total} (${percent}%)</h2>
+      <p>✅ ACIERTOS: ${correct}</p>
+      <p>❌ ERRORES: ${wrong}</p>
+      <hr>
+    `;
+
+    // Detalle de preguntas
+    results.forEach((r, i) => {
+      const item = document.createElement("div");
+      item.className = "question-result " + (r.isCorrect ? "correct" : "incorrect");
+
+      if (r.isCorrect) {
+        item.innerHTML = `
+          <p><strong>${i + 1}. ${r.question}</strong></p>
+          <p>✅ Correcto. Respuesta: ${r.correct}</p>
+        `;
+      } else {
+        item.innerHTML = `
+          <p><strong>${i + 1}. ${r.question}</strong></p>
+          <p>❌ Tu respuesta: ${r.selected ? r.selected : "<em>Sin responder</em>"}</p>
+          <p>✅ Respuesta correcta: ${r.correct}</p>
+        `;
+      }
+
+      detailsDiv.appendChild(item);
+    });
+
+    document.getElementById("back").addEventListener("click", () => {
+      window.location.href = "index.html";
+    });
+  </script>
+</body>
+</html>
