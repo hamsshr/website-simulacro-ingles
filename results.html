@@ -4,13 +4,14 @@
   <meta charset="UTF-8">
   <title>Resultados del Examen</title>
   <link rel="stylesheet" href="style.css">
+  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
 </head>
 <body>
     <header class="top-bar">
         <button id="back">VOLVER AL INICIO</button>
     </header>
   <div class="resultados-container">
-    <h1>RESULTADOS DEL EXAMEN</h1>
+    <h1>RESULTADOS DEL SIMULACRO</h1>
     <div id="score"></div>
     <div id="details"></div>
   </div>
@@ -31,8 +32,8 @@
     // Puntaje principal
     scoreDiv.innerHTML = `
       <h2>TU PUNTAJE: ${correct}/${total} (${percent}%)</h2>
-      <p>✅ ACIERTOS: ${correct}</p>
-      <p>❌ ERRORES: ${wrong}</p>
+      <p><span class="material-icons acierto">check_circle_outline</span> ACIERTOS: ${correct}</p>
+      <p><span class="material-icons error">error_outline</span> ERRORES: ${wrong}</p>
       <hr>
     `;
 
@@ -44,13 +45,13 @@
       if (r.isCorrect) {
         item.innerHTML = `
           <p><strong>${i + 1}. ${r.question}</strong></p>
-          <p>✅ Correcto. Respuesta: ${r.correct}</p>
+          <p><span class="material-icons acierto">check_circle_outline</span> Correcto. Respuesta: ${r.correct}</p>
         `;
       } else {
         item.innerHTML = `
           <p><strong>${i + 1}. ${r.question}</strong></p>
-          <p>❌ Tu respuesta: ${r.selected ? r.selected : "<em>Sin responder</em>"}</p>
-          <p>✅ Respuesta correcta: ${r.correct}</p>
+          <p><span class="material-icons error">error_outline</span> Tu respuesta: ${r.selected ? r.selected : "<em>Sin responder</em>"}</p>
+          <p><span class="material-icons acierto">check_circle_outline</span> Respuesta correcta: ${r.correct}</p>
         `;
       }
 
