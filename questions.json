@@ -1,502 +1,507 @@
 [
   {
-    "question": "The technician ______ already _____ the new circuit.",
-    "options": ["has installed", "have installed", "installed", "is installing"],
-    "answer": "has installed"
+    "question": "She doesn't work on Sundays.",
+    "options": ["Does she work on Sundays?", "Do she work on Sundays?", "Did she work on Sundays?", "Is she work on Sundays?"],
+    "answer": "Does she work on Sundays?"
   },
   {
-    "question": "I can’t _______ my tools. Have you seen them?",
-    "options": ["find", "finding", "found", "finds"],
-    "answer": "find"
+    "question": "We _____ in the meeting yesterday.",
+    "options": ["was", "are", "were", "be"],
+    "answer": "were"
   },
   {
-    "question": "We can’t work without our safety ________.",
-    "options": ["gloves", "glove", "gloving", "glove’s"],
-    "answer": "gloves"
-  },
-  {
-    "question": "The workers _______ the machine yesterday.",
-    "options": ["repair", "repaired", "repairing", "repairs"],
-    "answer": "repaired"
-  },
-  {
-    "question": "I _______ an email to my client last night.",
-    "options": ["send", "sending", "sent", "sends"],
-    "answer": "sent"
-  },
-  {
-    "question": "We will _______ the meeting at 9 a.m.",
-    "options": ["start", "started", "starts", "starting"],
-    "answer": "start"
-  },
-  {
-    "question": "The programmer ________ a new app for  the company comercial brand.",
-    "options": ["created", "creates", "creating", "create"],
-    "answer": "created"
-  },
-  {
-    "question": "They happily _________ the documents before the deadline.",
-    "options": ["finishing", "finishes", "finish", "finished"],
-    "answer": "finished"
-  },
-  {
-    "question": "A. Did you ______ the invoice to the supplier?\nB. Yes, I did it an hour ago.",
-    "options": ["send", "sent", "sends", "sending"],
-    "answer": "send"
-  },
-  {
-    "question": "You’re in a technical workshop. The instructor says: “Plug in the cable.” You should:",
-    "options": ["Connect it to the socket", "Remove it", "Cut it", "Paint it"],
-    "answer": "Connect it to the socket"
-  },
-  {
-    "question": "The electrician ________ the cables incorrectly. He needed to read the manual gently.",
-    "options": ["connect", "connecting", "connected", "connects"],
-    "answer": "connected"
-  },
-  {
-    "question": "We _______not _______ the production materials on time.",
-    "options": ["did / receive", "did / received", "do / received", "didn’t / received"],
-    "answer": "did / receive"
-  },
-  {
-    "question": "Where ______ you ________ your internship?",
-    "options": ["did / do", "do / did", "have / done", "are / doing"],
-    "answer": "did / do"
-  },
-  {
-    "question": "They _______ all the machines before the external inspection.",
-    "options": ["check", "checked", "checking", "checks"],
-    "answer": "checked"
-  },
-  {
-    "question": "The accountant ________ come to work last week.",
-    "options": ["did", "didn’t", "wasn’t", "don’t"],
-    "answer": "didn’t"
-  },
-  {
-    "question": "The students _________ the online test successfully.",
-    "options": ["complete", "completed", "completes", "completing"],
-    "answer": "completed"
-  },
-  {
-    "question": "In accounting, a ledger is ___.",
-    "options": ["a person who pays taxes", "a book or file that records financial transactions", "a receipt", "a bank account"],
-    "answer": "a book or file that records financial transactions"
-  },
-  {
-    "question": "A server is used to ___.",
-    "options": ["prepare coffee", "manage network data and resources", "store printed files", "fix electrical cables"],
-    "answer": "manage network data and resources"
-  },
-  {
-    "question": "A mechanical drawing shows __________ .",
-    "options": ["a list of materials", "the design of a part or machine", "only colors and shapes", "a figure of a house"],
-    "answer": "the design of a part or machine"
-  },
-  {
-    "question": "The accountant __________ the financial reports every month.",
-    "options": ["prepare", "prepares", "preparing", "prepared"],
-    "answer": "prepares"
-  },
-  {
-    "question": "A. Are you _________to install the new software today?\nB. Yes, I am.",
-    "options": ["going", "go", "will", "did"],
-    "answer": "going"
-  },
-  {
-    "question": "I think technology _________ change more and more the job market trend.",
-    "options": ["was", "is", "will", "has"],
+    "question": "I think it ______________ rain tomorrow.",
+    "options": ["will", "is", "does", "did"],
     "answer": "will"
   },
   {
-    "question": "I ________not attend the meeting because I’m sick.",
-    "options": ["will", "am going to", "did", "have"],
-    "answer": "will"
-  },
-  {
-    "question": "He _________ probably arrive late to the office. He is having a parking problem.",
-    "options": ["will", "has", "did", "are"],
-    "answer": "will"
-  },
-  {
-    "question": "The mechanic ________ test the components for the engine tomorrow.",
-    "options": ["is going to", "will", "was", "have"],
-    "answer": "is going to"
-  },
-  {
-    "question": "The motor ___ automatically when the power is off.",
-    "options": ["stops", "stop", "stopped", "stopping"],
-    "answer": "stops"
-  },
-  {
-    "question": "She ___ in the Human Resources department.",
-    "options": ["work", "works", "working", "worked"],
-    "answer": "works"
-  },
-  {
-    "question": "The new student _________ English twice a week.",
-    "options": ["study", "studies", "studied", "studying"],
-    "answer": "studies"
-  },
-  {
-    "question": "My family __________ to church every Sunday morning.",
-    "options": ["go", "went", "is going", "goes"],
-    "answer": "goes"
-  },
-  {
-    "question": "They ________ not using these machines anymore.",
-    "options": ["aren’t", "do", "didn’t", "are"],
-    "answer": "are"
-  },
-  {
-    "question": "A “circuit breaker” is used to:",
-    "options": ["turn on computers", "stop electrical current in emergencies", "control network access", "reduce voltage automatically"],
-    "answer": "stop electrical current in emergencies"
-  },
-  {
-    "question": "“Inventory control” means:",
-    "options": ["managing materials and products in stock", "organizing workers’ schedules", "sending emails to clients", "repairing machines"],
-    "answer": "managing materials and products in stock"
-  },
-  {
-    "question": "In programming, a “bug” is:",
-    "options": ["a system error", "a new software", "a database", "an input device"],
-    "answer": "a system error"
-  },
-  {
-    "question": "The “human resources department” deals with:",
-    "options": ["employee management", "financial auditing", "logistics", "product sales"],
-    "answer": "employee management"
-  },
-  {
-    "question": "In mechatronics, “sensor” means:",
-    "options": ["a device that detects physical changes", "a power generator", "an electric motor", "a resistor"],
-    "answer": "a device that detects physical changes"
-  },
-  {
-    "question": "The cable is ________ the wall and the table.",
-    "options": ["between", "under", "behind", "in"],
-    "answer": "between"
-  },
-  {
-    "question": "The bank documents are ________ the drawer.",
-    "options": ["in", "on", "at", "behind"],
-    "answer": "in"
-  },
-  {
-    "question": "The IT Department __________efficiently the new network.",
-    "options": ["installed", "installs", "installing", "install"],
-    "answer": "installed"
-  },
-  {
-    "question": "The company ________ a new and successful branch in Arequipa, Peru.",
-    "options": ["open", "opened", "opening", "openning"],
-    "answer": "opened"
-  },
-  {
-    "question": "I _________ my password yesterday, so I had to create a new one.",
-    "options": ["forgot", "forget", "forgetting", "forgets"],
-    "answer": "forgot"
-  },
-  {
-    "question": "The operator _________ the wrong button. He caused an alarm attention in the street.",
-    "options": ["push", "pushed", "pushing", "pushes"],
-    "answer": "pushed"
-  },
-  {
-    "question": "The machines __________ automatically.",
-    "options": ["work", "works", "working", "worked"],
-    "answer": "work"
-  },
-  {
-    "question": "Do you _________ in the Human Resources office?",
-    "options": ["works", "working", "work", "worked"],
-    "answer": "work"
-  },
-  {
-    "question": "The engineer ________ not design websites.\nShe gives technical support to hardware problems.",
-    "options": ["does", "do", "is", "did"],
-    "answer": "does"
-  },
-  {
-    "question": "My teacher always ________ to class on time.",
-    "options": ["come", "comes", "coming", "came"],
-    "answer": "comes"
-  },
-  {
-    "question": "The secretary ________ the phone calls in the morning.",
-    "options": ["answers", "answer", "answering", "answered"],
-    "answer": "answers"
-  },
-  {
-    "question": "We _________ in the testing laboratory twice a week.",
-    "options": ["work", "works", "worked", "working"],
-    "answer": "work"
-  },
-  {
-    "question": "A. Where _________ you live?\nB. I live in a house in the suburbs",
-    "options": ["does", "do", "are", "did"],
-    "answer": "do"
-  },
-  {
-    "question": "In IT, “software” refers to:",
-    "options": ["physical parts of a computer", "mechanical devices", "computer programs", "electrical tools"],
-    "answer": "computer programs"
-  },
-  {
-    "question": "Does the software ________any errors?",
-    "options": ["have", "has", "having", "had"],
-    "answer": "have"
-  },
-  {
-    "question": "The accountant __________ carefully  the balance at the end of every month.",
-    "options": ["check", "checks", "checked", "checking"],
-    "answer": "checks"
-  },
-  {
-    "question": "There isn’t ________ paper left in the printer.",
-    "options": ["any", "some", "a", "few"],
-    "answer": "any"
-  },
-  {
-    "question": "Do you have __________ pen?",
-    "options": ["a", "much", "any", "some"],
-    "answer": "a"
-  },
-  {
-    "question": "I need ________ information about the new project in the company.",
-    "options": ["any", "some", "many", "few"],
+    "question": "There is _______________ sugar in the jar.",
+    "options": ["many", "much", "any", "some"],
     "answer": "some"
   },
   {
-    "question": "In business, “supplier” means:",
-    "options": ["a person or company that provides goods", "a worker", "a manager", "a consumer"],
-    "answer": "a person or company that provides goods"
+    "question": "Are there ____________ machines in the workshop?",
+    "options": ["much", "a", "some", "any"],
+    "answer": "any"
   },
   {
-    "question": "A “client” is generally:",
-    "options": ["the person who buys services or products", "the person who sells items", "the person who offers goods and services", "the designer"],
-    "answer": "the person who buys services or products"
+    "question": "The office is __________ the stairs?",
+    "options": ["on", "at", "next to", "in"],
+    "answer": "next to"
   },
   {
-    "question": "In IT, a “backup” is always:",
-    "options": ["a copy of data for protection", "a hardware failure", "a system update", "a technical report"],
-    "answer": "a copy of data for protection"
+    "question": "Go ___________ the Street and turn left.",
+    "options": ["to", "along", "between", "into"],
+    "answer": "along"
   },
   {
-    "question": "The “production line” is:",
-    "options": ["a process where goods are manufactured", "a telephone line", "a design team", "an accounting system"],
-    "answer": "a process where goods are manufactured"
+    "question": "The warehouse is ____________ the parking lot.",
+    "options": ["opposite", "between", "under", "on"],
+    "answer": "opposite"
   },
   {
-    "question": "A “Industrial technician” is a person who usually:",
-    "options": ["repairs or operates technical systems", "writes reports", "manages accounts", "sells products"],
-    "answer": "repairs or operates technical systems"
+    "question": "A circuit breaker is used to ______ electric current.",
+    "options": ["store", "measure", "stop", "create"],
+    "answer": "stop"
   },
   {
-    "question": "In electricity, a “fuse” protects:",
-    "options": ["circuits from overcurrent", "cables from dust", "software from viruses", "batteries from heat"],
-    "answer": "circuits from overcurrent"
+    "question": "In accounting, 'assets' are company _____________",
+    "options": ["debts", "profits", "resources", "losses"],
+    "answer": "resources"
   },
   {
-    "question": "The main goal of “preventive maintenance” is:",
-    "options": ["to avoid machine failures", "to repair broken parts", "to reduce worker hours", "to increase bills"],
-    "answer": "to avoid machine failures"
+    "question": "Reading: The maintenance team checked the air compressors to avoid failures. They also changed old filters. Question: What did they replace?",
+    "options": ["Compressors", "Filters", "Valves", "Motors"],
+    "answer": "Filters"
   },
   {
-    "question": "In marketing, a “target market” means:",
-    "options": ["the group of consumers a company wants to reach", "the product design team", "the competitors", "the sales department"],
-    "answer": "the group of consumers a company wants to reach"
+    "question": "Why did they check the compressors?",
+    "options": ["To repair them", "To avoid failures", "To buy new ones", "To clean them"],
+    "answer": "To avoid failures"
   },
   {
-    "question": "A “database” is also called:",
-    "options": ["a collection of organized information", "a type of cable", "a financial program", "a device for sound"],
-    "answer": "a collection of organized information"
+    "question": "The computer system is very slow during data processing. What should the technician do first?",
+    "options": ["Restart the system", "Replace the monitor", "Call the supplier", "Delete files"],
+    "answer": "Restart the system"
   },
   {
-    "question": "“Entrepreneurship” means:",
-    "options": ["creating and managing new businesses", "studying accounting", "repairing machines", "managing salaries"],
-    "answer": "creating and managing new businesses"
+    "question": "The pump produces strange noise after installation. What is the best action?",
+    "options": ["Stop and inspect the alignment", "Add more oil", "Increase speed", "Continue running"],
+    "answer": "Stop and inspect the alignment"
   },
   {
-    "question": "I promise I _______ send the email soon.",
-    "options": ["will", "am going", "did", "was"],
+    "question": "There ________ a new policy for energy saving next month.",
+    "options": ["is", "was", "will be", "are"],
+    "answer": "will be"
+  },
+  {
+    "question": "They didn't____ the report on time.",
+    "options": ["send", "sent", "sending", "Sends"],
+    "answer": "send"
+  },
+  {
+    "question": "Does your company ________ products abroad?",
+    "options": ["exports", "exported", "exporting", "export"],
+    "answer": "export"
+  },
+  {
+    "question": "He ______ like working under pressure.",
+    "options": ["don't", "doesn't", "didn't", "not"],
+    "answer": "doesn't"
+  },
+  {
+    "question": "There are _______ engineers in the control room.",
+    "options": ["much", "some", "any", "a"],
+    "answer": "some"
+  },
+  {
+    "question": "We __________ repair the robot next week.",
+    "options": ["are", "will", "do", "did"],
     "answer": "will"
   },
   {
-    "question": "The IT team _______ upgrade all systems this weekend.",
-    "options": ["will", "are going to", "were", "was"],
-    "answer": "will"
+  "question": "Reading: The technician checks the oil pressure before starting the engine. Last week, he didn't replace the filter because the new one was not available. Now, he installs it and tests the system carefully. Question: Why didn't the technician replace the filter last week?",
+  "options": [
+    "Because the filter was broken.",
+    "Because it was not available.",
+    "Because the engine didn't work.",
+    "Because he forgot it."
+  ],
+  "answer": "Because it was not available."
+},
+  {
+    "question": "The news is very interesting on this channel. The news ________ a report about new electric cars.",
+    "options": ["show", "shows", "showing", "shown"],
+    "answer": "shows"
   },
   {
-    "question": "Our boss ______ evaluate our performance next Friday.",
-    "options": ["will", "was", "have", "did"],
-    "answer": "will"
+    "question": "The meeting _________ at 10 a.m. every day.",
+    "options": ["Start", "starts", "started", "starting"],
+    "answer": "starts"
   },
   {
-    "question": "What does “AC” stand for in electricity ?",
-    "options": ["Automatic Circuit", "Alternating Current", "Active Control", "Applied Conductor"],
-    "answer": "Alternating Current"
-  },
-  {
-    "question": "Reading Question. Every morning, the maintenance team _________all the electrical panels in the main factory building. They look for signs of overheating and loose connections. If any problem is found, the technician immediately disconnects the system and replaces the damaged part.",
-    "options": ["controls", "checks", "organizes", "looks at"],
-    "answer": "checks"
-  },
-  {
-    "question": "Reading Question. In the administration department, all resources are carefully managed to avoid waste. The office manager controls the purchase of materials such as paper, ink, and computer accessories. Before any order is approved, the manager compares prices from at least three __________",
-    "options": ["suppliers", "customers", "retailers", "promoters"],
-    "answer": "suppliers"
-  },
-  {
-    "question": "Would you like ________ some coffee?",
-    "options": ["having", "to have", "have", "had"],
-    "answer": "to have"
-  },
-  {
-    "question": "I would ________ to visit The Great Wall of China someday.",
-    "options": ["like", "liking", "likes", "liked"],
-    "answer": "like"
-  },
-  {
-    "question": "What would you do if the system failed?",
-    "options": ["I reset it.", "I will reset it.", "I would reset it.", "I reset it yesterday."],
-    "answer": "I would reset it."
-  },
-  {
-    "question": "Would you help me with this report ?",
-    "options": ["Yes, I would.", "Yes, I will do.", "Yes, I can.", "Yes, I did."],
-    "answer": "Yes, I would."
-  },
-  {
-    "question": "_________your hands before touching the circuit.",
-    "options": ["Washed", "Wash", "Washing", "To wash"],
-    "answer": "Wash"
-  },
-  {
-    "question": "Don’t ________ the button until the light turns green.",
-    "options": ["press", "pressed", "presses", "pressing"],
-    "answer": "press"
-  },
-  {
-    "question": "Please _________ the file before closing the window.",
-    "options": ["saving", "saves", "save", "saved"],
-    "answer": "save"
-  },
-  {
-    "question": "_________ careful when you open that bottle.",
-    "options": ["Is", "Be", "Are", "Being"],
-    "answer": "Be"
-  },
-  {
-    "question": "Let’s _________ a short break before the next activity.",
-    "options": ["take", "taking", "took", "to take"],
-    "answer": "take"
-  },
-  {
-    "question": "Can you ________ the project details to the team?",
-    "options": ["explain", "explaining", "explained", "explains"],
-    "answer": "explain"
-  },
-  {
-    "question": "She can’t _______ the files because the computer is off.",
-    "options": ["open", "opens", "opened", "opening"],
-    "answer": "open"
-  },
-  {
-    "question": "Can we use this equipment now? Yes, you _______.",
-    "options": ["can", "could", "are", "may not"],
-    "answer": "can"
-  },
-  {
-    "question": "We ______ never _______ a project like this before.",
-    "options": ["did see", "have /seen", "see", "saw"],
-    "answer": "have /seen"
-  },
-  {
-    "question": "My supervisor _______ just ______ the production report.",
-    "options": ["has/ finished", "have/ finished", "finished", "finish"],
-    "answer": "has/ finished"
-  },
-  {
-    "question": "Please ___ the lights when you leave the lab.",
-    "options": ["turn on", "turn off", "take out", "set up"],
-    "answer": "turn off"
-  },
-  {
-    "question": "The system will ___ if we restart it now.",
-    "options": ["go up", "come on", "shut down", "look after"],
-    "answer": "shut down"
-  },
-  {
-    "question": "We need to ___ the problem before the meeting.",
-    "options": ["figure out", "take over", "run into", "turn up"],
-    "answer": "figure out"
-  },
-  {
-    "question": "The technician will ________ the machine to check the motor.",
-    "options": ["look for", "take apart", "put on", "give back"],
-    "answer": "take apart"
-  },
-  {
-    "question": "Please ___ the report after you finish it.",
-    "options": ["turn up", "turn in", "get off", "run away"],
-    "answer": "turn in"
-  },
-  {
-    "question": "In business, “HR” stands for:",
-    "options": ["Human Relations", "Human Resources", "High Risk", "Hourly Report"],
-    "answer": "Human Resources"
-  },
-  {
-    "question": "“Wi-Fi” allows users to:",
-    "options": ["Connect without cables", "Work without computers", "Install hard drives", "Clean monitors"],
-    "answer": "Connect without cables"
-  },
-  {
-    "question": "“AI” is an abbreviation for:",
-    "options": ["Artificial Intelligence", "Automatic Information", "Artificial Internet", "Active Integration"],
-    "answer": "Artificial Intelligence"
-  },
-  {
-    "question": "The accountant must _________ all expenses before sending the report.",
-    "options": ["register", "verify", "connect", "actívate"],
-    "answer": "verify"
-  },
-  {
-    "question": "The IT department performs a full system backup every Friday mainly to:",
-    "options": ["reduce electricity consumption", "protect data from possible loss or damage", "install new applications automatically", "delete temporary internet files"],
-    "answer": "protect data from possible loss or damage"
-  },
-  {
-    "question": "The company decided to ______ new management software.",
-    "options": ["install", "design", "produce", "check"],
+    "question": "We didn't _______ the new software yet.",
+    "options": ["install", "installed", "installing", "installs"],
     "answer": "install"
   },
   {
-    "question": "What tool is used to tighten or loosen bolts?",
-    "options": ["Screwdriver", "Wrench", "Pliers", "Tester"],
-    "answer": "Wrench"
+    "question": "He Will ___________ the documents tomorrow.",
+    "options": ["sign", "signed", "signing", "signs"],
+    "answer": "sign"
   },
   {
-    "question": "The technician is going to replace the old cable. What does he need?",
-    "options": ["A document", "A hammer", "A wire cutter", "A keyboard"],
-    "answer": "A wire cutter"
+    "question": "There isn't __________ fuel in the tank.",
+    "options": ["some", "any", "many", "a"],
+    "answer": "any"
   },
   {
-    "question": "Reading Question. The IT support department is responsible for maintaining all computer systems in the institution. Every Friday, the technicians perform a complete data ___________ to avoid losing important information.",
-    "options": ["information", "configuration", "backup", "copy"],
-    "answer": "backup"
+    "question": "Are there ________ students in the class?",
+    "options": ["any", "a", "much", "one"],
+    "answer": "any"
   },
   {
-    "question": "Which verb is similar to “turn on”?",
-    "options": ["Power off", "Connect", "Switch off", "Shut down"],
-    "answer": "Connect"
+    "question": "The office is _______  the main building.",
+    "options": ["under", "near", "at", "in"],
+    "answer": "near"
   },
   {
-    "question": "The operator can’t start the scanner because the system ________.",
-    "options": ["updates", "is off", "works", "record"],
-    "answer": "is off"
+    "question": "Go __________ the hall and turn right.",
+    "options": ["down", "up", "into", "across"],
+    "answer": "down"
+  },
+  {
+    "question": "The cafeteria is __________  the administration area.",
+    "options": ["opposite", "between", "on", "inside"],
+    "answer": "opposite"
+  },
+  {
+    "question": "A sensor is used to ____________ data.",
+    "options": ["create", "measure", "cut", "heat"],
+    "answer": "measure"
+  },
+  {
+    "question": "In management, 'budget' means ________________",
+    "options": ["plan of money", "worker schedule", "Company address", "Job report"],
+    "answer": "plan of money"
+  },
+  {
+    "question": "Reading: The IT department installed antivirus software to protect company computers. Employees must update it every month.\nQuestion: Why was the software installed?",
+    "options": ["To improve speed", "To protect computers", "To delete files", "To control Access"],
+    "answer": "To protect computers"
+  },
+  {
+  "question": "How often must employees update their information?",
+  "options": ["Every hour", "Every minute", "Every year", "Every day"],
+  "answer": "Every day"
+  },
+  {
+    "question": "The circuit overheats when the motor runs. What should the electrician check?",
+    "options": ["The wiring connections", "The color of cables", "The toolbox", "The office lights"],
+    "answer": "The wiring connections"
+  },
+  {
+    "question": "The administrative system shows wrong totals. What should the analyst do?",
+    "options": ["Review the formulas", "Turn off the computer", "Clean the keyboard", "Delete data"],
+    "answer": "Review the formulas"
+  },
+  {
+    "question": "They ___________ not finish the task yesterday.",
+    "options": ["do", "did", "did not", "does not"],
+    "answer": "did not"
+  },
+  {
+    "question": "We _________ a project about automation now.",
+    "options": ["are working on", "work", "worked", "working"],
+    "answer": "are working on"
+  },
+  {
+    "question": "Does he __________ the new database?",
+    "options": ["uses", "use", "using", "used"],
+    "answer": "use"
+  },
+  {
+    "question": "There are ___ chairs in the meeting room.",
+    "options": ["much", "a", "some", "an"],
+    "answer": "some"
+  },
+  {
+    "question": "We _______ replace the air filter next month.",
+    "options": ["will", "did", "does", "have"],
+    "answer": "will"
+  },
+  {
+    "question": "He _______ know how to fix that sensor.",
+    "options": ["don't", "didn't", "doesn't", "not"],
+    "answer": "doesn't"
+  },
+  {
+    "question": "Reading: In an office, the assistant prepares all the documents for the weekly meeting. Yesterday, she didn't send the financial report because the manager was absent. Today, she updates the data and organizes the invoices carefully. Question: What does the assistant do today according to the text?",
+    "options": ["She didn't prepare the meeting", "She organizes and updates the documents.", "She was absent yesterday", "She finished the reports last week."],
+    "answer": "She organizes and updates the documents."
+  },
+  {
+    "question": "The police ______ arrested many drug dealers in the last six months.",
+    "options": ["have", "having", "has", "are"],
+    "answer": "have"
+  },
+  {
+    "question": "The manager _________ the report yesterday.",
+    "options": ["write", "wrote", "writing", "writes"],
+    "answer": "wrote"
+  },
+  {
+    "question": "She ______ like coffee in the morning.",
+    "options": ["doesn't", "didn't", "don't", "not"],
+    "answer": "doesn't"
+  },
+  {
+    "question": "We ___ travel to Lima next weekend.",
+    "options": ["did", "do", "will", "are"],
+    "answer": "will"
+  },
+  {
+    "question": "There is ____ water on the floor.",
+    "options": ["any", "a", "some", "many"],
+    "answer": "some"
+  },
+  {
+    "question": "Are there _____ computers available?",
+    "options": ["any", "some", "a", "much"],
+    "answer": "any"
+  },
+  {
+    "question": "The warehouse is _____ the main gate.",
+    "options": ["on", "near", "behind", "at"],
+    "answer": "near"
+  },
+  {
+    "question": "Go ____ the street and turn left.",
+    "options": ["into", "along", "at", "to"],
+    "answer": "along"
+  },
+  {
+    "question": "The lab is ________________ the library and the office.",
+    "options": ["between", "under", "opposite", "on"],
+    "answer": "between"
+  },
+  {
+    "question": "A resistor is used to _______ electric current.",
+    "options": ["measure", "limit", "store", "increase"],
+    "answer": "limit"
+  },
+  {
+    "question": "An invoice is used to ______________ a product sale.",
+    "options": ["register", "erase", "cancel", "close"],
+    "answer": "register"
+  },
+  {
+    "question": "Reading: The mechanic cleaned the filters and changed the oil to avoid damage in the engines.\nQuestion: Why did he change the oil?",
+    "options": ["To save time", "To prevent damage", "To make noise", "To reduce pressure"],
+    "answer": "To prevent damage"
+  },
+  {
+    "question": "What else did the mechanic do?",
+    "options": ["He cleaned the filters", "He repaired the motor", "He washed the car", "He replaced a valve"],
+    "answer": "He cleaned the filters"
+  },
+  {
+    "question": "The robot arm stops suddenly during production. What should the operator check?",
+    "options": ["Power connection", "Lighting system", "Paint color", "Desk"],
+    "answer": "Power connection"
+  },
+  {
+    "question": "The software doesn’t save the records. What should the technician do?",
+    "options": ["Check storage settings", "Restart the monitor", "Turn off the printer", "Ignore it"],
+    "answer": "Check storage settings"
+  },
+  {
+    "question": "Mr. Thomas _ finished his sales report yet.",
+    "options": ["didn't", "hasn't", "don't", "not"],
+    "answer": "hasn't"
+  },
+  {
+    "question": "There _______ a meeting tomorrow morning.",
+    "options": ["was", "will be", "is", "are"],
+    "answer": "will be"
+  },
+  {
+    "question": "We _ repair the machines today.",
+    "options": ["are going to", "going to", "will", "were"],
+    "answer": "are going to"
+  },
+  {
+    "question": "Do you ________ how to install that?",
+    "options": ["know", "knows", "knew", "knowing"],
+    "answer": "know"
+  },
+  {
+    "question": "The students ______ studying for the exam.",
+    "options": ["is", "be", "are", "am"],
+    "answer": "are"
+  },
+  {
+    "question": "The technicians ______ clean the area before leaving.",
+    "options": ["must", "can", "will", "do"],
+    "answer": "must"
+  },
+  {
+    "question": "Reading: Before testing the circuit, the engineer connects all the sensors and verifies the voltage. Yesterday, he didn’t calibrate the device correctly, so the signal was unstable.\nQuestion: What problem did the engineer have yesterday?",
+    "options": ["The sensors didn't work.", "The signal was unstable.", "He measured the voltage correctly.", "The device worked perfectly."],
+    "answer": "The signal was unstable."
+  },
+  {
+    "question": "The family ______ early on Sundays.",
+    "options": ["get up", "gets up", "got up", "gotten"],
+    "answer": "gets up"
+  },
+  {
+    "question": "We ______ at the project meeting yesterday.",
+    "options": ["are", "was", "were", "be"],
+    "answer": "were"
+  },
+  {
+    "question": "He doesn’t ______ to work on weekends.",
+    "options": ["like", "likes", "liking", "liked"],
+    "answer": "like"
+  },
+  {
+    "question": "There are ______ chairs in the office.",
+    "options": ["much", "some", "a", "an"],
+    "answer": "some"
+  },
+  {
+    "question": "There isn’t ______ paper in the printer tray.",
+    "options": ["any", "some", "many", "few"],
+    "answer": "any"
+  },
+  {
+    "question": "Is there ______ fuel in the tank?",
+    "options": ["Much", "some", "a", "An"],
+    "answer": "Much"
+  },
+  {
+    "question": "Would you like ______ cream and sugar in your coffee?",
+    "options": ["Anny", "some", "a", "many"],
+    "answer": "some"
+  },
+  {
+    "question": "Go ______ the door and turn right.",
+    "options": ["across", "through", "along", "on"],
+    "answer": "through"
+  },
+  {
+    "question": "The workshop is ______ the main gate.",
+    "options": ["behind", "opposite", "under", "in"],
+    "answer": "behind"
+  },
+  {
+    "question": "Walk ______ the hallway until the end.",
+    "options": ["down", "between", "to", "at"],
+    "answer": "down"
+  },
+  {
+    "question": "A capacitor is used to ______ electrical energy.",
+    "options": ["generate", "store", "transmit", "measure"],
+    "answer": "store"
+  },
+  {
+    "question": "A supplier is a person who ______ materials.",
+    "options": ["buys", "sells", "stores", "counts"],
+    "answer": "sells"
+  },
+  {
+    "question": "Reading: The IT technician updated the security system to protect the database. The process took two hours.\nQuestion: How long did the update take?",
+    "options": ["Two days", "Two hours", "One week", "One hour"],
+    "answer": "Two hours"
+  },
+  {
+    "question": "Why did he update the system?",
+    "options": ["To protect the database", "To install games", "To test software", "To delete files"],
+    "answer": "To protect the database"
+  },
+  {
+    "question": "The computer doesn’t recognize the flash drive. What should the user do?",
+    "options": ["Try another port", "Turn off the lights", "Replace the monitor", "Close the window"],
+    "answer": "Try another port"
+  },
+  {
+    "question": "The computer doesn’t recognize the flash drive. What should the user do?",
+    "options": ["Try another port", "Turn off the lights", "Replace the monitor", "Close the window"],
+    "answer": "Try another port"
+  },
+  {
+    "question": "They ______ present their project next Monday.",
+    "options": ["are going to", "did", "was", "does"],
+    "answer": "are going to"
+  },
+  {
+    "question": "He ______ know the answer yesterday.",
+    "options": ["did not", "doesn’t", "do not", "hasn’t"],
+    "answer": "did not"
+  },
+  {
+    "question": "There ______ a new machine in the factory to increase the productivity.",
+    "options": ["are", "will be", "was", "be"],
+    "answer": "will be"
+  },
+  {
+    "question": "The students ______ working in the new laboratory.",
+    "options": ["am", "are", "is", "were"],
+    "answer": "are"
+  },
+  {
+    "question": "We ______ fix the problem later.",
+    "options": ["did", "do", "doing", "done"],
+    "answer": "do"
+  },
+  {
+    "question": "The technician ______ repair the control panel now.",
+    "options": ["can", "must", "should", "may"],
+    "answer": "must"
+  },
+  {
+    "question": "Someone forgot ______ keys on the table.",
+    "options": ["his", "her", "their", "my"],
+    "answer": "their"
+  },
+  {
+    "question": "Reading: In the production area, workers assemble robotic arms and test their motion sensors. Yesterday, the system didn’t respond during calibration because the controller failed. Now, they fix the error and restart the operation.\nQuestion: What happened to the system yesterday?",
+    "options": ["It worked correctly.", "It didn’t respond during calibration.", "The workers finished the test.", "The controller was perfect."],
+    "answer": "It didn’t respond during calibration."
+  },
+  {
+    "question": "We didn’t ______ any emails yesterday.",
+    "options": ["receive", "received", "receiving", "receives"],
+    "answer": "receive"
+  },
+  {
+    "question": "She will ______ the materials tomorrow.",
+    "options": ["delivered", "deliver", "delivering", "delivers"],
+    "answer": "deliver"
+  },
+  {
+    "question": "The motor doesn’t start after maintenance. What should the electrician do first?",
+    "options": ["Verify power connections", "Change oil", "Replace belt", "Clean floor"],
+    "answer": "Verify power connections"
+  },
+  {
+    "question": "The database shows duplicated data. What should the analyst do?",
+    "options": ["Review input process", "Restart monitor", "Add more users", "Close software"],
+    "answer": "Review input process"
+  },
+  {
+    "question": "Reading: The team replaced old cables to improve machine performance. They also checked the control panel.\nQuestion: What did they replace?",
+    "options": ["Sensors", "Cables", "Motors", "Lights"],
+    "answer": "Cables"
+  },
+  {
+    "question": "Why did they check the control panel?",
+    "options": ["To test performance", "To fix the sensors", "To increase voltage", "To install lights"],
+    "answer": "To test performance"
+  },
+  {
+    "question": "A PLC is an equipment used to ______ machines automatically.",
+    "options": ["design", "control", "paint", "repair"],
+    "answer": "control"
+  },
+  {
+    "question": "He ______ finish the project last week.",
+    "options": ["didn't", "don't", "doesn't", "not"],
+    "answer": "didn't"
+  },
+  {
+    "question": "They ______ organize a party tomorrow.",
+    "options": ["are going to", "will", "did", "does"],
+    "answer": "are going to"
+  },
+  {
+    "question": "Does she ______ Chinese well?",
+    "options": ["speaks", "speak", "speaking", "spoke"],
+    "answer": "speak"
+  },
+  {
+    "question": "The programmer ______ testing the code now.",
+    "options": ["is", "are", "be", "was"],
+    "answer": "is"
   }
 ]
