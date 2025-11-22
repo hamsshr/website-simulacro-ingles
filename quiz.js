@@ -13,9 +13,14 @@ let examMode = localStorage.getItem("examMode") || "20";
 fetch("questions.json?v=" + Date.now())
   .then(res => res.json())
   .then(data => {
-    questions = shuffleArray(data);
-    selectedQuestions =
-      examMode === "100" ? questions.slice(0, 100) : questions.slice(0, 20);
+    if (examMode === "100") {
+  questions = data;               // SIN mezclar
+  selectedQuestions = questions.slice(0, 100);
+} else {
+  questions = shuffleArray(data); // Para las 20 sí se mezcla
+  selectedQuestions = questions.slice(0, 20);
+}
+
     showQuiz();
   })
   .catch(() => {
